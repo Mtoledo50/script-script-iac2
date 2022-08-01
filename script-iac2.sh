@@ -13,6 +13,6 @@ unzip main.zip
 cd linux-site-dio-main
 cd -r * /var/www/html/
 
-‐------------
+echo ‐------------
 
-Chmod +X script-iac2.sh
+echo " Chmod +X script-iac2.sh -- COLOCAR PERMISSÃO DE EXECUTAR NO ARQUIVO "
